@@ -1,1 +1,1 @@
-Hell this file contains the string realated code
+Hello this file contains the string realated code
