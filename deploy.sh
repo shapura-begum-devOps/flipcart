@@ -1,1 +1,1 @@
-This file contains git status files
+This file contains git status files..
